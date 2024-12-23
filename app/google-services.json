@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299183486538",
+    "project_id": "tripsheep-855b3",
+    "storage_bucket": "tripsheep-855b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299183486538:android:887a7a944091ca723bd8b3",
+        "android_client_info": {
+          "package_name": "com.vandan.tripsheep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ge5kS7fDfYgnxEsg2HXWF2_hT6UCqs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

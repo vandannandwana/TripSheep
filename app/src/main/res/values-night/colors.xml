@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors (Dark theme variants) -->
+    <color name="soft_blue">#1A73E8</color> <!-- Darker blue -->
+    <color name="mint_green">#689F38</color> <!-- Darker green -->
+
+    <!-- Secondary Colors -->
+    <color name="light_gray">#121212</color> <!-- Dark background -->
+    <color name="charcoal_gray">#E0E0E0</color> <!-- Lighter text -->
+
+    <!-- Accent Colors -->
+    <color name="sunset_orange">#FF7043</color> <!-- Slightly darker orange -->
+    <color name="warm_yellow">#FFCA28</color> <!-- More muted yellow -->
+
+    <!-- Typography & Backgrounds -->
+    <color name="white">#121212</color> <!-- Dark background for dark mode -->
+    <color name="cool_gray">#E0E0E0</color> <!-- Lighter text for dark mode -->
+    <color name="light_gray_bg">#1C1C1C</color> <!-- Darker background -->
+    <color name="sky_black">#E6E6E6</color>
+</resources>
