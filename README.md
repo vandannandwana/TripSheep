@@ -2,17 +2,16 @@ TripSheep Android Application
 TripSheep is a travel companion Android application designed to enhance your travel experience with features tailored for both planning and enjoying trips.
 
 Features
-Explore Now: Discover trending destinations and plan your next adventure.
+Explore Now: Discover trending destinations and plan your next adventure.z
 Hill Stations: Find information about popular hill stations and their attractions.
 Customizable Travel Plans: Create and manage your travel itineraries.
 Real-time Weather Updates: Stay informed about weather conditions at your destination.
 User-friendly Interface: Intuitive design for seamless navigation and usability.
 Demo Video
 
-# Demo Video
-<video src="assets/tripsheep-demo.mp4" controls="controls" style="max-width: 100%;">
-    Your browser does not support the video tag.
-</video>
+# Demo Video On Youtube(Click the below image to See)
+[![Watch the Demo Video](https://img.youtube.com/vi/tuWSaVq2MSA/0.jpg)](https://www.youtube.com/watch?v=tuWSaVq2MSA)
+
 
 
 
