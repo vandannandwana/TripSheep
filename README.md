@@ -9,7 +9,6 @@ Real-time Weather Updates: Stay informed about weather conditions at your destin
 User-friendly Interface: Intuitive design for seamless navigation and usability.
 Demo Video
 
-
 [![Watch the Demo Video](https://img.youtube.com/vi/tuWSaVq2MSA/0.jpg)](https://www.youtube.com/watch?v=tuWSaVq2MSA)
 
 
@@ -20,7 +19,7 @@ Clone this repository.
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/tripsheep.git
+git clone https://github.com/vandannandwana/TripSheep.git
 Open the project in Android Studio.
 Build and run the application on your device or emulator.
 Technologies Used
