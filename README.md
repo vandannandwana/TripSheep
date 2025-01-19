@@ -9,7 +9,11 @@ Real-time Weather Updates: Stay informed about weather conditions at your destin
 User-friendly Interface: Intuitive design for seamless navigation and usability.
 Demo Video
 
-[![Watch the Demo Video](https://img.youtube.com/vi/tuWSaVq2MSA/0.jpg)](https://www.youtube.com/watch?v=tuWSaVq2MSA)
+# Demo Video
+<video src="assets/tripsheep-demo.mp4" controls="controls" style="max-width: 100%;">
+    Your browser does not support the video tag.
+</video>
+
 
 
 Installation
